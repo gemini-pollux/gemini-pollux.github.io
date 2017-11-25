@@ -1,0 +1,49 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="countdown.com.br" resolutions="1x" timestamp="1510773821057">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="178008519" ref="phone>index"/>
+      <file name="master_mestre3224.css" crc="3908474420" ref="phone>player"/>
+      <file name="player.css" crc="108445083" ref="phone>player"/>
+      <file name="master_ok-cel.css" crc="369170132" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="390168748" seo="true" mt="1510773110719" redirect="true"/>
+    <file name="player.html" crc="3896139150" seo="true" mt="1510772935124" redirect="true"/>
+  </folder>
+  <folder name="assets">
+    <file name="contador_regressivo_new.html" crc="4237089901" seo="true" mt="1510772530000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="4009051686" ref="index"/>
+    <file name="master_mestre3224.css" crc="3997937785" ref="player"/>
+    <file name="player.css" crc="4142864048" ref="player"/>
+    <file name="master_20.css" crc="174301389" ref="ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
+    <file name="master_ytpbr10.css" crc="139568977" ref="index"/>
+    <file name="ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw__.css" crc="485861077" ref="ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:phone>index:phone>player:player:ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
+    <file name="museutils.js" crc="4190794036" ref="index:phone>index:phone>player:player:ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
+    <file name="whatinput.js" crc="84559013" ref="index:phone>index:phone>player:player:ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:phone>index:phone>player:player:ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index:player:ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
+    <file name="museredirect.js" crc="3985760531" ref="index:player"/>
+  </folder>
+  <folder name="images">
+    <file name="logotipo top 10 ytpmvbr.png" crc="4181027971" seo="true" ref="phone>player:player"/>
+    <file name="u164-4.png" crc="193360057" ref="player"/>
+    <file name="8zlzgr.gif" crc="199293982" ref="index:phone>index:phone>player:player:ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
+    <file name="mestre3224-favicon.ico" crc="22853525" ref="phone>player"/>
+    <file name="u617-4.png" crc="3991008015" ref="phone>index"/>
+    <file name="u702-4.png" crc="457157298" ref="phone>player"/>
+    <file name="logo 10anos ytpbr-crop-u675.png" crc="133969355" ref="phone>player"/>
+    <file name="logo 10anos ytpbr231x183.png" crc="280123051" seo="true" ref="player"/>
+    <file name="u705-4.png" crc="3781167669" ref="phone>player"/>
+    <file name="20-favicon.ico" crc="22853525" ref="ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
+    <file name="ok-cel-favicon.ico" crc="22853525" ref="phone>index"/>
+    <file name="u965-4.png" crc="248663524" ref="index"/>
+  </folder>
+  <file name="index.html" crc="409652455" seo="true" mt="1510773814189" redirect="true"/>
+  <file name="player.html" crc="468041716" seo="true" mt="1510772907037" redirect="true"/>
+  <file name="ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw==.html" crc="3775925074" seo="true" mt="1510773696184" redirect="true"/>
+</manifest>
