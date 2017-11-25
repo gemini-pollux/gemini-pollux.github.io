@@ -1,0 +1,37 @@
+{
+  "short_name": "YTPBR10",
+  "name": "YTPBR 10 Anos",
+  "icons": [
+    {
+      "src": "icons/ldpi.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    },
+  {
+      "src": "icons/mdpi.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+{
+      "src": "icons/hdpi.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "icons/xhdpi.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "icons/xxhdpi.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+	{
+      "src": "icons/GooglePlayStore.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+  ],
+  "start_url": "phone/index.html?launcher=true"
+}
