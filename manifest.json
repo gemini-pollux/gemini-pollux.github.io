@@ -33,7 +33,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "phone/index.html?launcher=true",
+  "start_url": "phone/",
   "background_color": "#000000",
   "theme_color": "#000000",
   "display": "browser",  
