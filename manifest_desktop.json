@@ -31,7 +31,7 @@
       "src": "icons/GooglePlayStore.png",
       "type": "image/png",
       "sizes": "512x512"
-    },
-  ]
+    }
+  ],
   "start_url": "index.html?launcher=true"
 }
