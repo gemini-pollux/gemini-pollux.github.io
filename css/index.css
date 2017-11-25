@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EE;
-	background-color: #F54626;
+	color: #0000E3;
+	background-color: #CA7286;
 }
 
 #muse_css_mq
@@ -12,74 +12,242 @@
 #page
 {
 	z-index: 1;
-	min-height: 379px;
+	min-height: 2284px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-top: 226px;
+	padding-bottom: 24px;
 	width: 100%;
 	max-width: 960px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#u965-4
+#pu1026-4
 {
-	z-index: 5;
-	position: relative;
-	width: 44.59%;
-	margin-left: 27.71%;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 818px;
+	width: 95.84%;
+	margin-left: 2.09%;
 }
 
-#u960
+#u1026-4
 {
-	z-index: 4;
-	min-height: 131px;
-	top: -6px;
-	margin-bottom: -6px;
+	z-index: 19;
+	display: block;
+	vertical-align: top;
 	position: relative;
-	width: 49.38%;
-	margin-left: 25.32%;
+	width: 32.29%;
 }
 
-#pu904
+#u1041-4
 {
-	margin-top: 12px;
+	z-index: 27;
+	display: block;
+	vertical-align: top;
+	margin-top: 27px;
+	position: relative;
+	width: 25.98%;
+}
+
+#u1044-11
+{
+	z-index: 31;
+	display: block;
+	vertical-align: top;
+	top: -4px;
+	margin-bottom: -4px;
+	position: relative;
+	width: 25.98%;
+}
+
+#u1050-15
+{
+	z-index: 42;
+	display: block;
+	vertical-align: top;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+	width: 25.98%;
+}
+
+#pu1056-42
+{
+	width: 29.79%;
+}
+
+#u1056-42
+{
+	z-index: 57;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
 	width: 100%;
 }
 
-#u904
+#u1068-13
 {
-	z-index: 2;
-	height: 100px;
-	min-width: 100px;
+	z-index: 137;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 15px;
-	width: 3.44%;
-	left: 86.57%;
+	margin-top: 546px;
+	width: 87.23%;
 }
 
-.js body
+#u1074-6
 {
-	visibility: hidden;
+	z-index: 153;
+	display: block;
+	vertical-align: top;
+	margin-top: 13px;
+	position: relative;
+	width: 100%;
 }
 
-.js body.initialized
+#creditos
 {
-	visibility: visible;
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 786px;
+	left: 28px;
 }
 
-#u905,#u905-bw
+#u1020-4
 {
-	z-index: 3;
-	height: 138px;
+	z-index: 11;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 83px;
+	width: 19.69%;
+	left: 4.59%;
+}
+
+#pu212
+{
+	margin-right: -10000px;
+	margin-top: 19px;
+	width: 90.94%;
+	margin-left: 4.54%;
+}
+
+#u212
+{
+	z-index: 6;
+	position: relative;
+	width: 26.35%;
+	margin-left: 36.83%;
+	left: -0.4999999999999787px;
+}
+
+#u745
+{
+	z-index: 10;
+	width: 873px;
+	height: 545px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	max-width: 100000px;
+	min-width: 100px;
+	position: relative;
+	margin-left: 50%;
+	left: -436.5px;
+}
+
+#pu1023-4
+{
+	margin-right: -10000px;
+	margin-top: 83px;
+	width: 46.05%;
+	margin-left: 51.88%;
+}
+
+#u1023-4
+{
+	z-index: 15;
+	position: relative;
+	width: 57.7%;
+	margin-left: 37.11%;
+}
+
+#u1020-4_img,#u1023-4_img
+{
+	display: block;
+	vertical-align: top;
+	width: 100%;
+}
+
+#u1038-4
+{
+	z-index: 23;
+	display: block;
+	vertical-align: top;
+	margin-top: 687px;
+	position: relative;
+	width: 96.39%;
+	margin-left: 3.62%;
+}
+
+#u1065-36
+{
+	z-index: 101;
+	display: block;
+	vertical-align: top;
+	margin-top: 27px;
+	position: relative;
+	width: 100%;
+}
+
+#easteregg
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 786px;
+	left: 863px;
+}
+
+#u1071-3
+{
+	z-index: 150;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 1.05%;
+	left: 2.09%;
+}
+
+#u164-4
+{
+	z-index: 2;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 46px;
+	width: 26.67%;
+	margin-left: 36.67%;
+	left: -85px;
+}
+
+#u244
+{
+	z-index: 8;
+	position: relative;
+	margin-right: -10000px;
+	width: 14.59%;
+	margin-left: 42.71%;
+	left: 142px;
 }
 
 .html
 {
-	background: #FFFFFF url("../images/8zlzgr.gif") no-repeat left top scroll;
+	background: #000000 url("../images/8zlzgr.gif") no-repeat center center scroll;
 	background-size: cover;
 }
 
@@ -87,5 +255,20 @@ body
 {
 	position: relative;
 	min-width: 320px;
+}
+
+.verticalspacer
+{
+	min-height: 52px;
+}
+
+#u212_img
+{
+	width: 100%;
+}
+
+#u244_img
+{
+	width: 100.72%;
 }
 
