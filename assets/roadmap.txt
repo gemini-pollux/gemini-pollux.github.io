@@ -1,0 +1,37 @@
+ROADMAP DO ytpbr10.tk
+
+QUANDO FALTAR: 
+
+TRÊS DIAS
+[upd] entra a págia do player otimizada pra não dar too many requests; possivelmente com outro host.
+
+2222222
+[script]
+
+UM DIA
+[atualização] página começa a soltar partes do medley distorcidas (veja também: notpron)
+
+DOIS MINUTOS (aproximadamente)
+atualizar o redirect.php pra levar pro link do vídeo
+
+UM MINUTO
+divulgar
+
+
+
+15 SEGUNDOS (discutir)
+(script)
+- interromper vídeo
+- o vídeo some
+- contador centralizado
+- bg muda pra cada um dos mvs referência a cada segundo
+
+5 SEGUNDOS
+Carl posta manualmente o vídeo (sacomé, a programação do youtube não é tão pontual assim)
+
+0 SEGUNDOS
+redirect pro vídeo
+
+
+substituir o arquivo pelo player.html com o link do vídeo
+
