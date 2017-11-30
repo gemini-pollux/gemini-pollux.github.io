@@ -1,49 +1,72 @@
-<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="countdown.com.br" resolutions="1x" timestamp="1510773821057">
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="countdown.com.br" resolutions="1x" timestamp="1512007382376">
+  <folder name="assets">
+    <file name="contador_regressivo_new.html" crc="4027950902" seo="true" mt="1510774281000"/>
+  </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="178008519" ref="phone>index"/>
-      <file name="master_mestre3224.css" crc="3908474420" ref="phone>player"/>
-      <file name="player.css" crc="108445083" ref="phone>player"/>
-      <file name="master_ok-cel.css" crc="369170132" ref="phone>index"/>
+      <file name="master_mestre3224.css" crc="3908474420" ref="phone>index"/>
+      <file name="master_ok-cel.css" crc="369170132" ref="phone>-ytpbr10"/>
+      <file name="-ytpbr10.css" crc="178008519" ref="phone>-ytpbr10"/>
+      <file name="index.css" crc="4217621930" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="390168748" seo="true" mt="1510773110719" redirect="true"/>
-    <file name="player.html" crc="3896139150" seo="true" mt="1510772935124" redirect="true"/>
-  </folder>
-  <folder name="assets">
-    <file name="contador_regressivo_new.html" crc="4237089901" seo="true" mt="1510772530000"/>
+    <file name="-ytpbr10.html" crc="325028527" seo="true" mt="1511576648903" redirect="true"/>
+    <file name="index.html" crc="4149218053" seo="true" mt="1512007359410" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="4009051686" ref="index"/>
-    <file name="master_mestre3224.css" crc="3997937785" ref="player"/>
-    <file name="player.css" crc="4142864048" ref="player"/>
-    <file name="master_20.css" crc="174301389" ref="ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
-    <file name="master_ytpbr10.css" crc="139568977" ref="index"/>
-    <file name="ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw__.css" crc="485861077" ref="ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
+    <file name="index.css" crc="3863136549" ref="index"/>
+    <file name="master_talvez-isso-esclare_a-melhor.css" crc="174301389" ref="vw1hig5vdmegzxjh"/>
+    <file name="master_ytpbr10.css" crc="139568977" ref="-ytpbr10"/>
+    <file name="master_mestre3224.css" crc="3997937785" ref="index"/>
+    <file name="-ytpbr10.css" crc="385778483" ref="-ytpbr10"/>
+    <file name="vw1hig5vdmegzxjh.css" crc="3764091500" ref="vw1hig5vdmegzxjh"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:phone>index:phone>player:player:ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
-    <file name="museutils.js" crc="4190794036" ref="index:phone>index:phone>player:player:ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
-    <file name="whatinput.js" crc="84559013" ref="index:phone>index:phone>player:player:ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
-    <file name="jquery.watch.js" crc="349565855" ref="index:phone>index:phone>player:player:ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index:player:ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
-    <file name="museredirect.js" crc="3985760531" ref="index:player"/>
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:phone>-ytpbr10:phone>index:vw1hig5vdmegzxjh:-ytpbr10"/>
+    <file name="museutils.js" crc="4190794036" ref="index:phone>-ytpbr10:phone>index:vw1hig5vdmegzxjh:-ytpbr10"/>
+    <file name="whatinput.js" crc="84559013" ref="index:phone>-ytpbr10:phone>index:vw1hig5vdmegzxjh:-ytpbr10"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:phone>-ytpbr10:phone>index:vw1hig5vdmegzxjh:-ytpbr10"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="phone>index:index:vw1hig5vdmegzxjh:-ytpbr10"/>
+    <file name="museredirect.js" crc="3985760531" ref="index:-ytpbr10"/>
   </folder>
   <folder name="images">
-    <file name="logotipo top 10 ytpmvbr.png" crc="4181027971" seo="true" ref="phone>player:player"/>
-    <file name="u164-4.png" crc="193360057" ref="player"/>
-    <file name="8zlzgr.gif" crc="199293982" ref="index:phone>index:phone>player:player:ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
-    <file name="mestre3224-favicon.ico" crc="22853525" ref="phone>player"/>
-    <file name="u617-4.png" crc="3991008015" ref="phone>index"/>
-    <file name="u702-4.png" crc="457157298" ref="phone>player"/>
-    <file name="logo 10anos ytpbr-crop-u675.png" crc="133969355" ref="phone>player"/>
-    <file name="logo 10anos ytpbr231x183.png" crc="280123051" seo="true" ref="player"/>
-    <file name="u705-4.png" crc="3781167669" ref="phone>player"/>
-    <file name="20-favicon.ico" crc="22853525" ref="ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw=="/>
-    <file name="ok-cel-favicon.ico" crc="22853525" ref="phone>index"/>
-    <file name="u965-4.png" crc="248663524" ref="index"/>
+    <file name="ok-cel-favicon.ico" crc="22853525" ref="phone>-ytpbr10"/>
+    <file name="u617-4.png" crc="3991008015" ref="phone>-ytpbr10"/>
+    <file name="8zlzgr.gif" crc="199293982" ref="phone>-ytpbr10:phone>index:index"/>
+    <file name="mestre3224-favicon.ico" crc="22853525" ref="phone>index"/>
+    <file name="u1119-4.png" crc="3833610009" ref="phone>index"/>
+    <file name="u702-4.png" crc="457157298" ref="phone>index"/>
+    <file name="u1083-36.png" crc="4278762579" ref="phone>index"/>
+    <file name="u1104-6.png" crc="76993152" ref="phone>index"/>
+    <file name="logo 10anos ytpbr-crop-u675.png" crc="410925704" ref="phone>index"/>
+    <file name="u1122-4.png" crc="403629635" ref="phone>index"/>
+    <file name="u1077-4.png" crc="71249674" ref="phone>index"/>
+    <file name="u1079-4.png" crc="118956900" ref="phone>index"/>
+    <file name="u1080-11.png" crc="59743175" ref="phone>index"/>
+    <file name="u1081-15.png" crc="3902044218" ref="phone>index"/>
+    <file name="u1082-42.png" crc="175762136" ref="phone>index"/>
+    <file name="u1084-13.png" crc="4259398467" ref="phone>index"/>
+    <file name="u1078-6.png" crc="4132936603" ref="phone>index"/>
+    <file name="u705-4.png" crc="3781167669" ref="phone>index"/>
+    <file name="logotipo top 10 ytpmvbr.png" crc="4181027971" seo="true" ref="phone>index:index"/>
+    <file name="u1020-4.png" crc="396963595" ref="index"/>
+    <file name="u1026-4.png" crc="71249674" ref="index"/>
+    <file name="u1041-4.png" crc="291015811" ref="index"/>
+    <file name="u1044-11.png" crc="4261756645" ref="index"/>
+    <file name="u1050-15.png" crc="251426513" ref="index"/>
+    <file name="u1056-42.png" crc="4043771835" ref="index"/>
+    <file name="u1068-13.png" crc="3859353867" ref="index"/>
+    <file name="u1074-6.png" crc="161659909" ref="index"/>
+    <file name="logo 10anos ytpbr231x183.png" crc="280123051" seo="true" ref="index"/>
+    <file name="u1023-4.png" crc="4046858514" ref="index"/>
+    <file name="u1038-4.png" crc="509266438" ref="index"/>
+    <file name="u1065-36.png" crc="508049347" ref="index"/>
+    <file name="u164-4.png" crc="193360057" ref="index"/>
+    <file name="talvez-isso-esclareça-melhor-favicon.ico" crc="22853525" ref="vw1hig5vdmegzxjh"/>
+    <file name="fundo.gif" crc="4069002509" ref="vw1hig5vdmegzxjh:-ytpbr10"/>
+    <file name="u965-4.png" crc="248663524" ref="-ytpbr10"/>
   </folder>
-  <file name="index.html" crc="409652455" seo="true" mt="1510773814189" redirect="true"/>
-  <file name="player.html" crc="468041716" seo="true" mt="1510772907037" redirect="true"/>
-  <file name="ug9yihf1zsbub3mgzgvzchjlemfyyw0gcg9yihrhbnrvihrlbxbvpw==.html" crc="3775925074" seo="true" mt="1510773696184" redirect="true"/>
+  <file name="index.html" crc="3831834890" seo="true" mt="1512007324384" redirect="true"/>
+  <file name="vw1hig5vdmegzxjh.html" crc="30136970" seo="true" mt="1510777607856" redirect="true"/>
+  <file name="-ytpbr10.html" crc="343947603" seo="true" mt="1511576648902" redirect="true"/>
 </manifest>
