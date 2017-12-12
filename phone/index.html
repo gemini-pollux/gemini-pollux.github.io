@@ -90,5 +90,18 @@ Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 } catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
 </script>
+
+<!--Service Workers aqui-->
+<script>
+  if ('serviceWorker' in navigator) {
+    console.log("Testando se o rolê dos Services Workers vai funcionar.");
+    navigator.serviceWorker.register('serviceworker.js')
+      .then(function(reg){
+        console.log("Rolou.");
+      }).catch(function(err) {
+        console.log("Deu ruim, ó: ", err)
+      });
+  }
+</script>
    </body>
 </html>
