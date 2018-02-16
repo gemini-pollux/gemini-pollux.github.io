@@ -13,6 +13,7 @@ self.addEventListener('fetch', e => {
     caches.open('YTPBR10').then(cache => {
       return cache.addAll([
         "/",
+		"/phone/",
         "/index.html?timestamp=${timeStamp}",
 		"/css/site_global.css",
 		"/phone/css/master_mestre3224.css?3908474420",
