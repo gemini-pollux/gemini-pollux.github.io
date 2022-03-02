@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contador</title>
+
+    <style>
+      @font-face {
+        font-family: "VCR OSD Mono";
+        src: url("/VCR_OSD_MONO_1.001.ttf");
+      }
+
+      body {
+        background: url("/images/8zlzgr.gif");
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+      }
+
+      .counter {
+        /* flex for counter container */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+
+      }
+
+      .numbers {
+        font-family: "VCR OSD Mono";
+        display: inline;
+        color: white;
+        font-size: 10vw;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="counter">
+      <div class="numbers">
+        <span class="dias">00</span><span class="horas">00</span><span class="minutos">00</span><span class="segundos">00</span>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
