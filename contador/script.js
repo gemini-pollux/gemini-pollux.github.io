@@ -1,4 +1,3 @@
-const elements = [".dias", ".horas", ".minutos", ".segundos"].map((s) => document.querySelector(s));
 const counter = document.querySelector(".numbers");
 
 /**
@@ -19,7 +18,7 @@ function getDate(input) {
 }
 
 const theDate = getDate(params.date || params.data);
-console.log(theDate, params.tudo, params.videoID);
+console.log(theDate, params.tudo, params.link);
 
 function count() {
   const remaining = theDate - Date.now();
@@ -29,15 +28,12 @@ function count() {
   const hours    = Math.floor(remaining / 3600_000)   % 24;
   const days     = Math.floor(remaining / 86400_000);
 
-  [days, hours, minutes]
-    .forEach((i, index) => (elements[index].textContent = i > 0 ? i : ''));
-    // regra especial pros segundos
-    elements[3].textContent = padZero(seconds);
+  const finalString = +(days + padZero(hours) + padZero(minutes) + padZero(seconds)) + '';
+  counter.textContent = finalString;
 
-    function isEverythingEquals() {
-      const string_numbers = (+counter.textContent.trim()) + '';
-      if (string_numbers.length < 2) return false;
-      return string_numbers
+  function isEverythingEquals() {
+      if (finalString.length < 2) return false;
+      return finalString
       .split('')
       .every(i => i === params.tudo);
   }
@@ -46,7 +42,11 @@ function count() {
     console.log('tudo', params.tudo);
   }
 
-
+  if (remaining <= 11000) document.body.style.background = "black";
+  if (remaining <= 999) {
+    clearInterval(interval);
+    params.link && (window.location = params.link);
+  }
 }
 
-setInterval(count, 1000);
+const interval = setInterval(count, 1000);
